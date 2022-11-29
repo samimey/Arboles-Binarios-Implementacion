@@ -41,3 +41,7 @@ Ejemplos
         *---*   *---*
 
 ![image](https://user-images.githubusercontent.com/112268583/204567322-8f65b85f-0740-46e4-ad33-b728b714ff5a.png)
+
+![image](https://user-images.githubusercontent.com/112268583/204567973-fbc2a122-b19f-4469-9512-2b2d473f2f81.png)
+
+![image](https://user-images.githubusercontent.com/112268583/204568101-4ec64660-2dd5-4923-b008-d54f4fbd99f3.png)
