@@ -47,9 +47,6 @@ class Arbol{
         else if (raiz.value==dato) return raiz
         else if(dato<raiz.value) return this.Buscar(dato,raiz.izquierda)
         else if(dato>raiz.value) return this.Buscar(dato,raiz.derecha) 
-        
-        
-
     }
     BuscarMenor(raiz){
         if(raiz==null) return null
@@ -122,6 +119,10 @@ class Arbol{
             console.log(raiz.value)
         }
     }
+    Altura(raiz){
+        if(raiz==null) return 0
+        return(1+(this.Altura(raiz.izquierda),this.Altura(raiz.derecha)))
+    }
     
 }
 
@@ -142,5 +143,6 @@ sal.postOrden(sal.Raiz())
 console.log(sal.Buscar(3,sal.Raiz()))
 console.log(sal)
 console.log(sal.BuscarMenor(sal.Raiz()))
+console.log(sal.Altura(sal.Raiz()))
 /* sal.EliminarPredecesor(5,sal.Raiz())
 console.log(sal) */ 
