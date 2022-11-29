@@ -39,3 +39,5 @@ Ejemplos
         *---*   *---*
         | B |   | C |
         *---*   *---*
+
+![image](https://user-images.githubusercontent.com/112268583/204567322-8f65b85f-0740-46e4-ad33-b728b714ff5a.png)
